@@ -2,7 +2,7 @@ AppleALC Changelog
 ==================
 #### v1.3.0
 - Added digital audio property injection for AMD, Intel, NVIDIA
-- Requires Lilu 1.2.8 and higher
+- Requires AppleALC 1.2.8 and higher
 
 #### v1.2.8
 - Added basic 10.14 compatibility via masking real `layout-id`
